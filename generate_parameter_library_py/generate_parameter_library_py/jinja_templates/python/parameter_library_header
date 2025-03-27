@@ -83,7 +83,7 @@ stamp_ = Time()
         def set_user_callback(self, callback):
             self.user_callback = callback
 
-        def clear_user_callback():
+        def clear_user_callback(self):
             self.user_callback = None
 
         def refresh_dynamic_parameters(self):
