@@ -2,6 +2,12 @@
 Changelog for package generate_parameter_library_example
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fix: Nested parameters in maps (`#2 <https://github.com/eurogroep/generate_parameter_library/issues/2>`_)
+* feat: User callback on parameter update (`#1 <https://github.com/eurogroep/generate_parameter_library/issues/1>`_)
+* Contributors: Yannick de Hoop
+
 0.4.0 (2025-01-13)
 ------------------
 * Change header install path (`#213 <https://github.com/PickNikRobotics/generate_parameter_library/issues/213>`_)

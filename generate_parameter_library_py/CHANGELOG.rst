@@ -2,6 +2,14 @@
 Changelog for package generate_parameter_library_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* feat: Add user callback python (`#3 <https://github.com/eurogroep/generate_parameter_library/issues/3>`_)
+* fix: Nested parameters in maps (`#2 <https://github.com/eurogroep/generate_parameter_library/issues/2>`_)
+* feat: User callback on parameter update (`#1 <https://github.com/eurogroep/generate_parameter_library/issues/1>`_)
+* fix: merge install for python packages (`#241 <https://github.com/eurogroep/generate_parameter_library/issues/241>`_)
+* Contributors: Darren Tsai, Yannick de Hoop
+
 0.4.0 (2025-01-13)
 ------------------
 * Unit test friendly folder structure for Python examples (`#237 <https://github.com/PickNikRobotics/generate_parameter_library/issues/237>`_)
