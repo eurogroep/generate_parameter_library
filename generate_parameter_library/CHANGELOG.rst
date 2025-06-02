@@ -2,8 +2,8 @@
 Changelog for package generate_parameter_library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2025-06-02)
+------------------
 * Fix generate_parameter_library macro on Windows (`#242 <https://github.com/eurogroep/generate_parameter_library/issues/242>`_)
 * Contributors: Silvio Traversaro
 

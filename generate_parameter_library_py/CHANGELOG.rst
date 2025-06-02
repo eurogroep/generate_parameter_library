@@ -2,8 +2,8 @@
 Changelog for package generate_parameter_library_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2025-06-02)
+------------------
 * feat: Add user callback python (`#3 <https://github.com/eurogroep/generate_parameter_library/issues/3>`_)
 * fix: Nested parameters in maps (`#2 <https://github.com/eurogroep/generate_parameter_library/issues/2>`_)
 * feat: User callback on parameter update (`#1 <https://github.com/eurogroep/generate_parameter_library/issues/1>`_)

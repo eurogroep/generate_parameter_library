@@ -2,8 +2,8 @@
 Changelog for package generate_parameter_library_example
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.0 (2025-06-02)
+------------------
 * fix: Nested parameters in maps (`#2 <https://github.com/eurogroep/generate_parameter_library/issues/2>`_)
 * feat: User callback on parameter update (`#1 <https://github.com/eurogroep/generate_parameter_library/issues/1>`_)
 * Contributors: Yannick de Hoop
