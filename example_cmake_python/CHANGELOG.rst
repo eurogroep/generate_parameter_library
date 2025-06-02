@@ -2,6 +2,11 @@
 Changelog for package cmake_generate_parameter_module_example
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.0 (2025-06-02)
+------------------
+* feat: Add user callback python (`#3 <https://github.com/eurogroep/generate_parameter_library/issues/3>`_)
+* Contributors: Yannick de Hoop
+
 0.4.0 (2025-01-13)
 ------------------
 

@@ -2,6 +2,9 @@
 Changelog for package generate_parameter_library_example_external
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.0 (2025-06-02)
+------------------
+
 0.4.0 (2025-01-13)
 ------------------
 * Change header install path (`#213 <https://github.com/PickNikRobotics/generate_parameter_library/issues/213>`_)
